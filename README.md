@@ -18,23 +18,34 @@
 
 ## 🚀 About Me
 
-```python
-class ShamPrasath:
-    def __init__(self):
-        self.name = "Sham Prasath R"
-        self.degree = "B.Tech Artificial Intelligence & Data Science"
-        self.college = "VSB College of Engineering Technical Campus"
-        self.location = "Coimbatore, Tamil Nadu 🇮🇳"
+## 🌌 Developer Profile
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Data Analytics",
-            "Cloud Computing"
-        ]
+```yaml
+name: Sham Prasath R
 
-        self.goal = "Build AI products that solve real-world problems."
+role: AI & Data Science Student
+
+location: Coimbatore, Tamil Nadu 🇮🇳
+
+education:
+  degree: B.Tech Artificial Intelligence & Data Science
+  college: VSB College of Engineering Technical Campus
+
+skills:
+  - Python
+  - Java
+  - SQL
+  - OpenCV
+  - TensorFlow
+  - YOLO
+
+currently_learning:
+  - Deep Learning
+  - Generative AI
+  - AI Agents
+  - Cloud Computing
+
+dream_role: AI Engineer
 ```
 
 * 🎓 AI & Data Science Undergraduate.
